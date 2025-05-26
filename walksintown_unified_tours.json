@@ -1,0 +1,657 @@
+[
+  {
+    "id": "01670939-2fb8-48cd-b74b-fa388d50b870",
+    "title": "Florence Walking Tour",
+    "short_desc": "Unlock the secrets of Florence with our Florence Walking Tour. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Florence Walking Tour. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Florence Walking Tour takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "410267P8",
+    "bokun_id": "#851075",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-walking-tour/shutterstock_1155507622.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2Utd2Fsa2luZy10b3VyL3NodXR0ZXJzdG9ja18xMTU1NTA3NjIyLmpwZyIsImlhdCI6MTc0MzUwNDEyNiwiZXhwIjoyMDU4ODY0MTI2fQ.lcUUy5eSGrWb6SZQPizQeWXoZRjMGM2Qes9Vbhmnc-0",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-walking-tour/shutterstock_131576816.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2Utd2Fsa2luZy10b3VyL3NodXR0ZXJzdG9ja18xMzE1NzY4MTYuanBnIiwiaWF0IjoxNzQzNTA0MTUxLCJleHAiOjIwNTg4NjQxNTF9.qqAayqUEEa4YB9PE8Rgtx6xt7ZEihlrT3987U6YBcww",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-walking-tour/shutterstock_1469046200.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2Utd2Fsa2luZy10b3VyL3NodXR0ZXJzdG9ja18xNDY5MDQ2MjAwLmpwZyIsImlhdCI6MTc0MzUwNDE3OCwiZXhwIjoyMDU4ODY0MTc4fQ.vqg4fHBacSR0kpV2IDlKn4iA-AoG0BDLMDLL_6VwwgQ",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-walking-tour/shutterstock_1973838395.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2Utd2Fsa2luZy10b3VyL3NodXR0ZXJzdG9ja18xOTczODM4Mzk1LmpwZyIsImlhdCI6MTc0MzUwNDE5MiwiZXhwIjoxNzc1MDQwMTkyfQ.iGDAAOtN46Gj7nvfWhCeCyCg7YBfUJJ12FUsDAzW-I0",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-walking-tour/shutterstock_233383765.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2Utd2Fsa2luZy10b3VyL3NodXR0ZXJzdG9ja18yMzMzODM3NjUuanBnIiwiaWF0IjoxNzQzNTA0MjAyLCJleHAiOjE3NzUwNDAyMDJ9.zpr-II6CzkROcS0G7i-WSNmQ85NnaIbTr1usT5Sak0o",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-walking-tour/shutterstock_269955902.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2Utd2Fsa2luZy10b3VyL3NodXR0ZXJzdG9ja18yNjk5NTU5MDIuanBnIiwiaWF0IjoxNzQzNTA0MjExLCJleHAiOjE3NzUwNDAyMTF9.qNCrAr97k0W5PBw0Bpe--ZUMDCP5ySUxNmCZtoKEcGM"
+    ],
+    "category": "TG1_1",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "18+",
+        "base_price": 45.0,
+        "discount": 0.0,
+        "final_price": 45.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Child",
+        "age": "6-17",
+        "base_price": 35.0,
+        "discount": 0.0,
+        "final_price": 35.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Infant",
+        "age": "0-5",
+        "base_price": 0.0,
+        "discount": 0.0,
+        "final_price": 0.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "10b453a8-ff54-4516-a569-24895ce812be",
+    "title": "Brunelleschi's Dome Climb VIP Guided Tour",
+    "short_desc": "Unlock the secrets of Florence with our Brunelleschi's Dome Climb VIP Guided Tour. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Brunelleschi's Dome Climb VIP Guided Tour. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Brunelleschi's Dome Climb VIP Guided Tour takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "410267P7",
+    "bokun_id": "#841996",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-domevip-tour/IMG_6779.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZXZpcC10b3VyL0lNR182Nzc5LmpwZyIsImlhdCI6MTc0MzUwNDIzMSwiZXhwIjoxNzc1MDQwMjMxfQ.EleeLpOXSDJ7zB7ezvhAMywB_T3iiv5wQJ4vO3ruq8I",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-domevip-tour/IMG_6815.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZXZpcC10b3VyL0lNR182ODE1LmpwZyIsImlhdCI6MTc0MzUwNDI0NywiZXhwIjoxNzc1MDQwMjQ3fQ.EAAKYMqosHXvOg_uJPGuIp7evhhGkRWfUNqxco2J3Zw",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-domevip-tour/IMG_6822.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZXZpcC10b3VyL0lNR182ODIyLmpwZyIsImlhdCI6MTc0MzUwNDI1NSwiZXhwIjoxNzc1MDQwMjU1fQ.CP7zopvGiRmpIaWmnchja13q8g6I-bF_4fbWBEm4ync",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-domevip-tour/IMG_6982.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZXZpcC10b3VyL0lNR182OTgyLmpwZyIsImlhdCI6MTc0MzUwNDI2NCwiZXhwIjoxNzc1MDQwMjY0fQ.vWjKWpknJSXKKBgFCY4z3c6DjrpefcINcTbOD8UX2Ho",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-domevip-tour/shutterstock_2539956125%20(6).jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZXZpcC10b3VyL3NodXR0ZXJzdG9ja18yNTM5OTU2MTI1ICg2KS5qcGciLCJpYXQiOjE3NDM1MDQyNzMsImV4cCI6MTc3NTA0MDI3M30.p1em-ZAd_KWTk6PnSQcAKXUTtZcr2UZBMWmBbiL3GW8"
+    ],
+    "category": "TG3_2",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "0+",
+        "base_price": 90.0,
+        "discount": 0.0,
+        "final_price": 90.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "2314f870-8d5b-4618-b554-c3da5cd1a0e2",
+    "title": "Brunelleschi’s Dome Climb and Cathedral Museum Guided Tour",
+    "short_desc": "Unlock the secrets of Florence with our Brunelleschi’s Dome Climb and Cathedral Museum Guided Tour. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Brunelleschi’s Dome Climb and Cathedral Museum Guided Tour. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Brunelleschi’s Dome Climb and Cathedral Museum Guided Tour takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "410267P4",
+    "bokun_id": "#777147",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-museum-tour/image00003.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS1tdXNldW0tdG91ci9pbWFnZTAwMDAzLmpwZWciLCJpYXQiOjE3NDM1MDQyOTksImV4cCI6MTc3NTA0MDI5OX0.g0NbNhW3z9DQkrW9sC5wxmXFdLyJnSdXht0rGRrD8Tg",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-museum-tour/IMG_6756.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS1tdXNldW0tdG91ci9JTUdfNjc1Ni5qcGciLCJpYXQiOjE3NDM1MDQzMTAsImV4cCI6MTc3NTA0MDMxMH0.U1AQzuz3PuYYpPYTlg9uF2mPeuhaH9Y-NqGP2CF5FL4",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-museum-tour/IMG_6779.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS1tdXNldW0tdG91ci9JTUdfNjc3OS5qcGciLCJpYXQiOjE3NDM1MDQzMjIsImV4cCI6MTc3NTA0MDMyMn0.ZK7I0b6CsAzmbiT1coZRi5qf3ek7Vk4gmlVZBOcZInI",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-museum-tour/IMG_6844.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS1tdXNldW0tdG91ci9JTUdfNjg0NC5qcGciLCJpYXQiOjE3NDM1MDQzMzQsImV4cCI6MTc3NTA0MDMzNH0.kzSgE2jxKMjLGkW7XqH3L7S8ct0EhTW1PQUAD76cvdY",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-museum-tour/IMG_6844.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS1tdXNldW0tdG91ci9JTUdfNjg0NC5qcGciLCJpYXQiOjE3NDM1MDQzMzQsImV4cCI6MTc3NTA0MDMzNH0.kzSgE2jxKMjLGkW7XqH3L7S8ct0EhTW1PQUAD76cvdY",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-museum-tour/IMG_7038.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS1tdXNldW0tdG91ci9JTUdfNzAzOC5qcGciLCJpYXQiOjE3NDM1MDQzNTUsImV4cCI6MTc3NTA0MDM1NX0.aoNjwD2OzPGxvDeEGTrvn1g8qdx2Yxo8eVIhm3w5iPM",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-museum-tour/shutterstock_2373587937%20(1).jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS1tdXNldW0tdG91ci9zaHV0dGVyc3RvY2tfMjM3MzU4NzkzNyAoMSkuanBnIiwiaWF0IjoxNzQzNTA0MzYzLCJleHAiOjE3NzUwNDAzNjN9.H3xk1L5FMsCpb_K0WvZmq9o6M_vcn4T7dyLZIjfOIxk"
+    ],
+    "category": "TG2_1",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "15+",
+        "base_price": 100.0,
+        "discount": 0.0,
+        "final_price": 100.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Child",
+        "age": "3-14",
+        "base_price": 88.0,
+        "discount": 0.0,
+        "final_price": 88.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Infant",
+        "age": "0-2",
+        "base_price": 0.0,
+        "discount": 0.0,
+        "final_price": 0.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "356fb482-7b3a-4fd1-ad43-acf84c9302db",
+    "title": "Accademia Gallery Guided Tour with Priority ticket",
+    "short_desc": "Unlock the secrets of Florence with our Accademia Gallery Guided Tour with Priority ticket. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Accademia Gallery Guided Tour with Priority ticket. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Accademia Gallery Guided Tour with Priority ticket takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "410267P2",
+    "bokun_id": "#775291",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-tour/84143220-3B7D-44FA-BF96-A2F24546FF86.JPEG?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRvdXIvODQxNDMyMjAtM0I3RC00NEZBLUJGOTYtQTJGMjQ1NDZGRjg2LkpQRUciLCJpYXQiOjE3NDM1MDQzODAsImV4cCI6MTc3NTA0MDM4MH0.eibBaiK1PTaKU45u4gkptuJ05ET2XrGChE5OSYwsglo",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-tour/BBA2EE08-C976-4986-BE46-9D5BF25BEFA9.JPEG?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRvdXIvQkJBMkVFMDgtQzk3Ni00OTg2LUJFNDYtOUQ1QkYyNUJFRkE5LkpQRUciLCJpYXQiOjE3NDM1MDQzODgsImV4cCI6MTc3NTA0MDM4OH0.plbi1yau8V4wWKjBw5-Us-aSr_RoSWvgeRl3qqBb784",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-tour/IMG_9150.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRvdXIvSU1HXzkxNTAuanBnIiwiaWF0IjoxNzQzNTA0Mzk2LCJleHAiOjE3NzUwNDAzOTZ9.4EouMCYKFwvHW98pH1-ZuF0fy2ZzfSW32e3z_TneMQM",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-tour/IMG_9165.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRvdXIvSU1HXzkxNjUuanBnIiwiaWF0IjoxNzQzNTA0NDA1LCJleHAiOjE3NzUwNDA0MDV9.nJz19GL-BWkKOB3rq4GrOKmKOM5n1nKCPfDSUHAb6Rw",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-tour/IMG_9193.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRvdXIvSU1HXzkxOTMuanBnIiwiaWF0IjoxNzQzNTA0NDEzLCJleHAiOjE3NzUwNDA0MTN9.qXN6IW_H4KcjUNKOURQk0HbXMWsxZBNs1T_JJWmKu1M",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-tour/IMG_9209.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRvdXIvSU1HXzkyMDkuanBnIiwiaWF0IjoxNzQzNTA0NDIxLCJleHAiOjE3NzUwNDA0MjF9.mcRW-fiTQfE_2R5aCoj8NsLw4Ma2eVa6hEPproA1cLE",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-tour/IMG_9215.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRvdXIvSU1HXzkyMTUuanBnIiwiaWF0IjoxNzQzNTA0NDI5LCJleHAiOjE3NzUwNDA0Mjl9.kpM6hfkD-n05UQYAexOPBgf1ui-_BPgGtWYDPGgE_HM",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-tour/IMG_9234.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRvdXIvSU1HXzkyMzQuanBnIiwiaWF0IjoxNzQzNTA0NDM3LCJleHAiOjE3NzUwNDA0Mzd9.TdR10CtVQ5agAIpmtbPfEcvRVFez_xYySN9fWIiTnrQ"
+    ],
+    "category": "TG1_3",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "18+",
+        "base_price": 60.0,
+        "discount": 0.0,
+        "final_price": 60.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Child",
+        "age": "6-17",
+        "base_price": 50.0,
+        "discount": 0.0,
+        "final_price": 50.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Infant",
+        "age": "0-5",
+        "base_price": 0.0,
+        "discount": 0.0,
+        "final_price": 0.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "486dcb2a-d946-4e82-9323-622a6948ab14",
+    "title": "Timed Entrance Ticket to Michelangelo's David",
+    "short_desc": "Unlock the secrets of Florence with our Timed Entrance Ticket to Michelangelo's David. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Timed Entrance Ticket to Michelangelo's David. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Timed Entrance Ticket to Michelangelo's David takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "\r\n410267P1",
+    "bokun_id": "#775290",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-ticket/84143220-3B7D-44FA-BF96-A2F24546FF86.JPEG?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRpY2tldC84NDE0MzIyMC0zQjdELTQ0RkEtQkY5Ni1BMkYyNDU0NkZGODYuSlBFRyIsImlhdCI6MTc0MzUwNDQ2MSwiZXhwIjoxNzc1MDQwNDYxfQ.hU-eYqqweg3rNFnOzG-l9LWS7v1gwsbb4ljCCf9a2mc",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-ticket/BBA2EE08-C976-4986-BE46-9D5BF25BEFA9%20(1).JPEG?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRpY2tldC9CQkEyRUUwOC1DOTc2LTQ5ODYtQkU0Ni05RDVCRjI1QkVGQTkgKDEpLkpQRUciLCJpYXQiOjE3NDM1MDQ0NzEsImV4cCI6MTc3NTA0MDQ3MX0.dct84AwZeEUaHK1_vnoElQcVP4D7cMIjGTYgbzTbT2M",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-ticket/BDD76725-92CB-4706-AAFB-FA2E4E22A9F3%20(1).JPEG?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRpY2tldC9CREQ3NjcyNS05MkNCLTQ3MDYtQUFGQi1GQTJFNEUyMkE5RjMgKDEpLkpQRUciLCJpYXQiOjE3NDM1MDQ0NzgsImV4cCI6MTc3NTA0MDQ3OH0.28WYN1M8aoJWFcwMW4heLOkFfNaJsE3OmLywlEshi4s",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-ticket/IMG_9148.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRpY2tldC9JTUdfOTE0OC5qcGciLCJpYXQiOjE3NDM1MDQ0ODUsImV4cCI6MTc3NTA0MDQ4NX0.pbnuz1WaCUFg76u9-OHAWqHNgeMn6Ar_d88k7V2nXA0",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-ticket/IMG_9216.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRpY2tldC9JTUdfOTIxNi5qcGciLCJpYXQiOjE3NDM1MDQ0OTMsImV4cCI6MTc3NTA0MDQ5M30.t2I_h7clfwiU9x8uKKMvagGYcfsRCB0HUzbHKbMHjkg",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-accademia-ticket/IMG_9241.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtYWNjYWRlbWlhLXRpY2tldC9JTUdfOTI0MS5qcGciLCJpYXQiOjE3NDM1MDQ1MDQsImV4cCI6MTc3NTA0MDUwNH0.X8BFwR5kePmnwyrhM31zmqMzWpDCNe7k7Epm4S5HIkk"
+    ],
+    "category": "TG1_2",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "18+",
+        "base_price": 45.0,
+        "discount": 0.0,
+        "final_price": 45.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Child",
+        "age": "6-17",
+        "base_price": 30.0,
+        "discount": 0.0,
+        "final_price": 30.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Infant",
+        "age": "0-5",
+        "base_price": 0.0,
+        "discount": 0.0,
+        "final_price": 0.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "57089a3c-0f5d-471b-bc5a-d1888eec97ac",
+    "title": "Brunelleschi's Dome and Cathedral Complex Reserved Ticket",
+    "short_desc": "Unlock the secrets of Florence with our Brunelleschi's Dome and Cathedral Complex Reserved Ticket. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Brunelleschi's Dome and Cathedral Complex Reserved Ticket. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Brunelleschi's Dome and Cathedral Complex Reserved Ticket takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "410267P3",
+    "bokun_id": "#779708",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-ticket/IMG_6756.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS10aWNrZXQvSU1HXzY3NTYuanBnIiwiaWF0IjoxNzQzNTA0NTIyLCJleHAiOjE3NzUwNDA1MjJ9.NEOOHWi2L9rRcMZVh-emcYQQe9z1MEvfWx4rKR2taHQ",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-ticket/IMG_6779.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS10aWNrZXQvSU1HXzY3NzkuanBnIiwiaWF0IjoxNzQzNTA0NTMwLCJleHAiOjE3NzUwNDA1MzB9.JkLinmmmXElUk2GyItyoF40lgMbJLS8DOz3b7eUu7Co",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-ticket/IMG_6815.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS10aWNrZXQvSU1HXzY4MTUuanBnIiwiaWF0IjoxNzQzNTA0NTQzLCJleHAiOjE3NzUwNDA1NDN9.roUtV2yaiGcK05UbcUHey36EAKQE_zLyR_VB2w7YYDE",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-ticket/IMG_6835.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS10aWNrZXQvSU1HXzY4MzUuanBnIiwiaWF0IjoxNzQzNTA0NTUyLCJleHAiOjE3NzUwNDA1NTJ9.3HwmTgC6VM4yFFSa5U2XipuOQJakqTK2xFRCdg0Y0K0",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-ticket/IMG_6844.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS10aWNrZXQvSU1HXzY4NDQuanBnIiwiaWF0IjoxNzQzNTA0NTYxLCJleHAiOjE3NzUwNDA1NjF9.EMOvmPccxv9MJhduDgW0PivC2CBh4VozECehdgKSmGs",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-ticket/IMG_6982.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS10aWNrZXQvSU1HXzY5ODIuanBnIiwiaWF0IjoxNzQzNTA0NTY4LCJleHAiOjE3NzUwNDA1Njh9.0bCVgbAMdoVbczHap2M7FIS0MZpWCujG45GMmRtdQbM",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-dome-ticket/shutterstock_127181462.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZG9tZS10aWNrZXQvc2h1dHRlcnN0b2NrXzEyNzE4MTQ2Mi5qcGciLCJpYXQiOjE3NDM1MDQ1NzUsImV4cCI6MTc3NTA0MDU3NX0.MJwaeEJw_fJLRWboneIeTCjwbjt7qIOIPZ_7jEQKQY0"
+    ],
+    "category": "TG3_1",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "0+",
+        "base_price": 79.0,
+        "discount": 0.0,
+        "final_price": 79.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "590866d7-441e-4400-b7e2-f71f003ba52a",
+    "title": "Florence Duomo Complex Tour & Brunelleschi’s Dome Climb",
+    "short_desc": "Unlock the secrets of Florence with our Florence Duomo Complex Tour & Brunelleschi’s Dome Climb. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Florence Duomo Complex Tour & Brunelleschi’s Dome Climb. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Florence Duomo Complex Tour & Brunelleschi’s Dome Climb takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "\r\n410267P11",
+    "bokun_id": "#917392",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/shutterstock_2539956125%20(7).jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvc2h1dHRlcnN0b2NrXzI1Mzk5NTYxMjUgKDcpLmpwZyIsImlhdCI6MTc0MzUwNDY4MiwiZXhwIjoxNzc1MDQwNjgyfQ.l5nIyqGihXVvTTatgSJpol4HjBX459rnAGjcETAF9_o",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_6756.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzY3NTYuanBnIiwiaWF0IjoxNzQzNTA0NjkxLCJleHAiOjE3NzUwNDA2OTF9.iiQh8WCuzxgMm1gtc7qI50kHA9dSNx4MR1O7TAWWwgY",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_6779.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzY3NzkuanBnIiwiaWF0IjoxNzQzNTA0NzAzLCJleHAiOjE3NzUwNDA3MDN9.LGiJaDbbjkAX4fgTnohCTlwEC0dXjGM8AkiBy4KDgpM",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_6815.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzY4MTUuanBnIiwiaWF0IjoxNzQzNTA0NzE0LCJleHAiOjE3NzUwNDA3MTR9.R0H3LyZI6YDNQdeEB5CxsGo-XgL9QPWjNonfwCoO7ZA",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_6819.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzY4MTkuanBnIiwiaWF0IjoxNzQzNTA0NzI1LCJleHAiOjE3NzUwNDA3MjV9.0i3de8aUL0IAgvrUEP1fQ5lkWXx0RJrGpv4ktdwqklI",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_6844.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzY4NDQuanBnIiwiaWF0IjoxNzQzNTA0NzM0LCJleHAiOjE3NzUwNDA3MzR9.C0CQa-ZcBgDYbUpdsE0yiJO0_Mj7KbD93nrb-aR-wfA",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_6844.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzY4NDQuanBnIiwiaWF0IjoxNzQzNTA0NzQ1LCJleHAiOjE3NzUwNDA3NDV9.vSuaA0ezZkpucuhkXAYqKqwcjTd6q0Vnn_qDD_EDCkA",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_6982.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzY5ODIuanBnIiwiaWF0IjoxNzQzNTA0NzU2LCJleHAiOjE3NzUwNDA3NTZ9.WSe-sbwA3j6hKFQnncU6ENbWfgJkx25xFvJVy76FhT8",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_6982.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzY5ODIuanBnIiwiaWF0IjoxNzQzNTA0NzcxLCJleHAiOjE3NzUwNDA3NzF9.RuW37LzuP0lMPDIucAdo0TgmbHhX2-zt9qHGK3IArXg",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/IMG_7050.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvSU1HXzcwNTAuanBnIiwiaWF0IjoxNzQzNTA0NzgxLCJleHAiOjE3NzUwNDA3ODF9.HqezvmIAdQYYVO-I2Zxuyq1-Gm0V6KJeNAq3LnMn7H8",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-dome-tour/shutterstock_127181462.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1kb21lLXRvdXIvc2h1dHRlcnN0b2NrXzEyNzE4MTQ2Mi5qcGciLCJpYXQiOjE3NDM1MDQ3OTAsImV4cCI6MTc3NTA0MDc5MH0.oZZt-VT1hGqBRTEGGLRYb-arcGCjq2ttCD5CERGEICA"
+    ],
+    "category": "TG2_2",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "15+",
+        "base_price": 110.0,
+        "discount": 0.0,
+        "final_price": 110.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Child",
+        "age": "3-14",
+        "base_price": 100.0,
+        "discount": 0.0,
+        "final_price": 100.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Infant",
+        "age": "0-2",
+        "base_price": 0.0,
+        "discount": 0.0,
+        "final_price": 0.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "6f6fde64-a28c-4f5e-9ebb-34e871569760",
+    "title": "Duomo Area Walking Tour with Giotto's Tower Climb Ticket",
+    "short_desc": "Unlock the secrets of Florence with our Duomo Area Walking Tour with Giotto's Tower Climb Ticket. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Duomo Area Walking Tour with Giotto's Tower Climb Ticket. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Duomo Area Walking Tour with Giotto's Tower Climb Ticket takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "\r\n410267P9",
+    "bokun_id": "#851074",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-giotto-tour/shutterstock_1166841532.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1naW90dG8tdG91ci9zaHV0dGVyc3RvY2tfMTE2Njg0MTUzMi5qcGciLCJpYXQiOjE3NDM1MDQ4MTYsImV4cCI6MTc3NTA0MDgxNn0.drHryfRFCdSQobViwM-O1kk61Vzgisf-fw8_mE-sBEk",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-giotto-tour/image00004.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1naW90dG8tdG91ci9pbWFnZTAwMDA0LmpwZWciLCJpYXQiOjE3NDM1MDQ4MjYsImV4cCI6MTc3NTA0MDgyNn0.rBx4bYUjney3O1omLloowBN6l5xC20PGh5HRycDdsL0",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-giotto-tour/image00004.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1naW90dG8tdG91ci9pbWFnZTAwMDA0LmpwZWciLCJpYXQiOjE3NDM1MDQ4MjYsImV4cCI6MTc3NTA0MDgyNn0.rBx4bYUjney3O1omLloowBN6l5xC20PGh5HRycDdsL0",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/complex-giotto-tour/shutterstock_127181462.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvY29tcGxleC1naW90dG8tdG91ci9zaHV0dGVyc3RvY2tfMTI3MTgxNDYyLmpwZyIsImlhdCI6MTc0MzUwNDg0MiwiZXhwIjoxNzc1MDQwODQyfQ.lCkwIljm5Owx4VpRmeIPPPPBdmPLyb4KowxUnsjjGoM"
+    ],
+    "category": "TG2_3",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "15+",
+        "base_price": 90.0,
+        "discount": 0.0,
+        "final_price": 90.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Child",
+        "age": "3-14",
+        "base_price": 80.0,
+        "discount": 0.0,
+        "final_price": 80.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Infant",
+        "age": "0-2",
+        "base_price": 0.0,
+        "discount": 0.0,
+        "final_price": 0.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "99c86e9a-9c55-4245-b68e-fbfdcb6e0ab7",
+    "title": "Accademia, Dome climb & Cathedral museum Guided tour",
+    "short_desc": "Unlock the secrets of Florence with our Accademia, Dome climb & Cathedral museum Guided tour. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Accademia, Dome climb & Cathedral museum Guided tour. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Accademia, Dome climb & Cathedral museum Guided tour takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "410267P10",
+    "bokun_id": "#779709",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-tour/shutterstock_127181462.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS10b3VyL3NodXR0ZXJzdG9ja18xMjcxODE0NjIuanBnIiwiaWF0IjoxNzQzNTA0OTEwLCJleHAiOjE3NzUwNDA5MTB9.tSQWoZpU1XAcB69fck14e40qf4sWmxuLCXcr178gqho",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-tour/IMG_9215.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS10b3VyL0lNR185MjE1LmpwZyIsImlhdCI6MTc0MzUwNDkxOSwiZXhwIjoxNzc1MDQwOTE5fQ.yhBRkNG0Xwq96y4GUWynSAVhEbMXkVPyqdIEFh3Iqj8",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-tour/84143220-3B7D-44FA-BF96-A2F24546FF86.JPEG?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS10b3VyLzg0MTQzMjIwLTNCN0QtNDRGQS1CRjk2LUEyRjI0NTQ2RkY4Ni5KUEVHIiwiaWF0IjoxNzQzNTA0OTI3LCJleHAiOjE3NzUwNDA5Mjd9.AzYoIs4O5K9onPVqzkcHOTD30qVNTof3YiSCagdTij8",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-tour/image00003.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS10b3VyL2ltYWdlMDAwMDMuanBlZyIsImlhdCI6MTc0MzUwNDkzNCwiZXhwIjoxNzc1MDQwOTM0fQ.CKmgQkSY96UU8qG-oy1EE_fD5cAhNuzfy7JVQImMjzw",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-tour/IMG_9165.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS10b3VyL0lNR185MTY1LmpwZyIsImlhdCI6MTc0MzUwNDk0NSwiZXhwIjoxNzc1MDQwOTQ1fQ.DnNtRF3WuZoYcMV7maGu3SaBSpT6QUkChwBPZ3KeEo4",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-tour/IMG_9215.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS10b3VyL0lNR185MjE1LmpwZyIsImlhdCI6MTc0MzUwNDk5NCwiZXhwIjoxNzc1MDQwOTk0fQ.SROvB4dcalx8p8l1XdGhflrBWl2eV5lzyyRZnVka98E"
+    ],
+    "category": "TG1_4",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "18+",
+        "base_price": 150.0,
+        "discount": 0.0,
+        "final_price": 150.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Child",
+        "age": "6-17",
+        "base_price": 140.0,
+        "discount": 0.0,
+        "final_price": 140.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Infant",
+        "age": "0-5",
+        "base_price": 0.0,
+        "discount": 0.0,
+        "final_price": 0.0,
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "ad8ce34d-5bc1-4ab6-a310-ecfcad0f60f2",
+    "title": "Florence VIP Early Access Michelangelo David and Dome Climb",
+    "short_desc": "Unlock the secrets of Florence with our Florence VIP Early Access Michelangelo David and Dome Climb. Guided by experts, this tour blends history, art, and adventure.",
+    "meta_desc": "Discover Florence with the exclusive Florence VIP Early Access Michelangelo David and Dome Climb. Skip-the-line access, expert-guided tours, and unforgettable views await you.",
+    "description": "[Attention] Are you ready to uncover Florence like never before? [Interest] The Florence VIP Early Access Michelangelo David and Dome Climb takes you on an extraordinary journey through the heart of the Renaissance. Climb Brunelleschi’s Dome, admire Michelangelo's David, or stroll through the charming streets of Florence with your expert local guide. [Desire] Skip the lines and access Florence's most iconic landmarks while hearing untold stories and insider insights. Whether you're a history lover, art enthusiast, or curious traveler, this tour promises an enriching and memorable experience. [Action] Reserve your place today and embark on your Florence adventure.",
+    "highlights": [
+      "✔ Skip-the-line tickets",
+      "✔ Expert storytelling",
+      "✔ Panoramic city views",
+      "✔ Access to Florence's most iconic landmarks",
+      "✔ Authentic local insights"
+    ],
+    "inclusions": [
+      "🎫 Reserved entry tickets",
+      "🎙 Licensed guide with headset",
+      "🗺 Personalized small group experience"
+    ],
+    "exclusions": [
+      "❌ Food & drinks",
+      "❌ Hotel pickup & drop-off",
+      "❌ Gratuities"
+    ],
+    "meeting_point": "📍 Piazza del Duomo - Meet your guide next to the Cathedral's main entrance.",
+    "important_info": "ℹ Please arrive 15 minutes early.\nℹ Wear comfortable shoes.\nℹ Bring a valid photo ID.\nℹ Dress modestly for religious sites.",
+    "before_you_go": "✔ Photography is allowed without flash.\n✔ Large backpacks are not permitted.\n✔ Tours operate rain or shine.",
+    "duration": "Approx. 2 - 2.5 hours",
+    "experience_type": "Guided Tour",
+    "booking_type": "Scheduled",
+    "product_code": "\r\n410267P12",
+    "bokun_id": "#919146",
+    "location": "Florence",
+    "images": [
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-vip-tour/image00003.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS12aXAtdG91ci9pbWFnZTAwMDAzLmpwZWciLCJpYXQiOjE3NDM1MDUwMjMsImV4cCI6MTc3NTA0MTAyM30.905I8SMtI0k51PKZeaNla0NXy50XVFvc6hGjz47albA",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-vip-tour/IMG_6779.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS12aXAtdG91ci9JTUdfNjc3OS5qcGciLCJpYXQiOjE3NDM1MDUwMzMsImV4cCI6MTc3NTA0MTAzM30.gaKqNkBpgZMqiFMs_7mrOzfpIby8Egb_MDxsliAoeWk",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-vip-tour/IMG_6779.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS12aXAtdG91ci9JTUdfNjc3OS5qcGciLCJpYXQiOjE3NDM1MDUwMzMsImV4cCI6MTc3NTA0MTAzM30.gaKqNkBpgZMqiFMs_7mrOzfpIby8Egb_MDxsliAoeWk",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-vip-tour/IMG_7038.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS12aXAtdG91ci9JTUdfNzAzOC5qcGciLCJpYXQiOjE3NDM1MDUwNTEsImV4cCI6MTc3NTA0MTA1MX0.492bVbucf1Zi7mnxR8Rzku6XdS6osQG3Irta-rHL3nA",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-vip-tour/IMG_9193.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS12aXAtdG91ci9JTUdfOTE5My5qcGciLCJpYXQiOjE3NDM1MDUwNTgsImV4cCI6MTc3NTA0MTA1OH0.KhWOsrxFZuAIUc3RW2dfluTqHJcJ6GsuoCDkAsCfHr0",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-vip-tour/IMG_9216.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS12aXAtdG91ci9JTUdfOTIxNi5qcGciLCJpYXQiOjE3NDM1MDUwNjcsImV4cCI6MTc3NTA0MTA2N30.e2VUfYpsHkgHWdavQ1okZTt2e_vE0CDr0fEvky2c-5U",
+      "https://tlvfujmdczmoemkcrahh.supabase.co/storage/v1/object/sign/tours-images/florence-david-dome-vip-tour/shutterstock_127181462.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ0b3Vycy1pbWFnZXMvZmxvcmVuY2UtZGF2aWQtZG9tZS12aXAtdG91ci9zaHV0dGVyc3RvY2tfMTI3MTgxNDYyLmpwZyIsImlhdCI6MTc0MzUwNTA3NywiZXhwIjoxNzc1MDQxMDc3fQ.WU_ZMLmM159Jlez0Am1Y2-ie04Nc9AidcWejTUzHi2Y"
+    ],
+    "category": "TG2_4",
+    "prices": [
+      {
+        "age_group": "Adult",
+        "age": "15+",
+        "base_price": 170.0,
+        "discount": 0.0,
+        "final_price": 170.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Child",
+        "age": "3-14",
+        "base_price": 150.0,
+        "discount": 0.0,
+        "final_price": 150.0,
+        "currency": "EUR"
+      },
+      {
+        "age_group": "Infant",
+        "age": "0-2",
+        "base_price": 0.0,
+        "discount": 0.0,
+        "final_price": 0.0,
+        "currency": "EUR"
+      }
+    ]
+  }
+]
